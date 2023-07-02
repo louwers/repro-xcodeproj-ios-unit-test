@@ -1,0 +1,5 @@
+objc_library(
+  name = "one",
+  srcs = ["one.m"],
+  visibility = ["//visibility:public"]
+)
